@@ -2,7 +2,9 @@ package main.java.com.handler.shapes;
 
 import main.java.com.dto.Triangle;
 import main.java.com.handler.TriangleHandler;
-
+/*
+*Implementation for the Isosceles triangle
+*/
 public class IsoscelesHandler extends TriangleHandler{
 
 	@Override
